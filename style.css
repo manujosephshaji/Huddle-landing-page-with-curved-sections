@@ -253,7 +253,7 @@ body {
 /****Responsive*****/
 @media (max-width:900px) {
     .info-section img {
-        width: 40rem;
+           width: 34rem;
     }
 
     .footers {
