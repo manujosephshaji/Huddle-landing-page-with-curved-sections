@@ -255,7 +255,9 @@ body {
     .info-section img {
            width: 34rem;
     }
-
+   .heading p {
+    margin-left: 66px;
+}
     .footers {
 
         justify-content: space-around;
