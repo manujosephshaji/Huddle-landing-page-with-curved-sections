@@ -277,6 +277,9 @@ body {
     .info-section img {
         width: 20rem;
     }
+    .logo img{
+        width: 10rem;
+    }
     .statistics {
         display: flex;
         justify-content: space-evenly;
