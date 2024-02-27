@@ -253,11 +253,9 @@ body {
 /****Responsive*****/
 @media (max-width:900px) {
     .info-section img {
-           width: 34rem;
+        width: 40rem;
     }
-   .heading p {
-    margin-left: 66px;
-}
+
     .footers {
 
         justify-content: space-around;
@@ -277,9 +275,17 @@ body {
     }
 
     .info-section img {
-        width: 24rem;
+        width: 20rem;
     }
-
+    .statistics {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        align-items: center;
+    }
+    .communities{
+        margin-bottom: 15px;
+    }
     .communities h1 {
         font-size: 56px;
     }
@@ -290,7 +296,7 @@ body {
     }
 
     .heading h1 {
-        font-size: 31px;
+        font-size: 27px;
         width: 26rem;
         margin-left: 40px;
     }
