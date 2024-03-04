@@ -294,14 +294,14 @@ body {
     }
 
     .heading p {
-        width: 24rem;
-        margin-left: 49px;
+        width: 21rem;
+        margin-left: 10px;
     }
 
     .heading h1 {
-        font-size: 27px;
-        width: 26rem;
-        margin-left: 40px;
+        font-size: 26px;
+        width: 19rem;
+        margin-left: 26px;
     }
 
     .top-desktop,
